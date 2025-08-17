@@ -9,7 +9,10 @@ penetration testing (i.e. Security evaluations). It started early in 2009 follow
 ===='''Q''': Who is involved with this standard?====
 '''A''': We are a group of information security practitioners from all areas of
 the industry (I.e. Financial Institutions, Service Providers, Security
-Vendors). The group currently consists of:
+Vendors). 
+
+
+The original group consisted of:
 *[http://twitter.com/indi303 Chris Nickerson], CEO - [http://www.lares.com Lares Consulting].
 *[http://twitter.com/hackingdave Dave Kennedy], CEO - [https://www.trustedsec.com/blog/ blog] [https://www.trustedsec.com/ TrustedSec] .
 *[http://twitter.com/chrisjohnriley Chris John Riley], IT Security Analyst - [http://blog.c22.cc blog] Raiffeisen Informatik GmbH.
@@ -33,7 +36,7 @@ Vendors). The group currently consists of:
 ===='''Q''': So is this a closed group or can I join in?====
 '''A''': We started this with about 6 people, the first in-person meeting held
 almost 20. We would love more insight and down-to-earth opinions so if you
-can contribute please feel free to email us.
+can contribute please feel free to email us or submit things via https://github.com/OpenSBK/ptes.
 
 ===='''Q''': Is this going to be a formal standard?====
 '''A''': We are aiming to create an actual standard so that businesses can have
